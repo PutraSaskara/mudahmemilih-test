@@ -1,0 +1,88 @@
+
+import Hero1 from "../../../components/profilepage/Hero1";
+
+
+let calegData ="";
+
+async function getCaleg(id) {
+  // Construct the API URL
+//  const apiUrl = `https://server.mudahmemilih.com/api/v2/calegs/${id}`;
+
+  const res = await fetch(apiUrl)
+
+  if (!res.ok) {
+      console.log(response);
+      throw new Error('Failed to fetch data');
+  }
+
+  return res.json()
+}
+ 
+
+export async function generateMetadata({ params }, parent) {
+  try {
+    // Read route params
+    const { id } = params;
+
+
+    const apiData1 = await getCaleg(id);
+
+    // Extract data from the API response (provide default values if necessary)
+    const { attributes } = calegData.data || {};
+    const title = attributes?.nama || 'Default Title';
+    const imageUrl =  ''; //attributes ? `https://server.mudahmemilih.com/api/v2/images/${attributes.img_caleg}` : '';
+    const description = attributes ? `Candidate from ${attributes.nama_partai} in ${attributes.nama_dapil}` : '';
+
+    // Optionally access and extend (rather than replace) parent metadata
+    const previousImages = (await parent)?.openGraph?.images || [];
+
+    return {
+      title,
+      description,
+      openGraph: {
+        images: imageUrl ? [imageUrl, ...previousImages] : previousImages,
+      },
+    };
+  } catch (error) {
+    console.error('Error fetching data:', error);
+
+    // Handle the error gracefully, e.g., return a default metadata object
+    return {
+      title: 'Default Title',
+      openGraph: {
+        images: [],
+      },
+    };
+  }
+}
+
+async function Page({ params: { id } }) {
+
+  if(!calegData)
+    calegData = await getCaleg(id)
+
+console.log(calegData.title)
+
+  const caleg = "";//calegData.data.attributes;
+
+    return (
+      <div>
+         <Hero1
+              name={caleg.nama}
+              quotes={caleg.kab_kota}
+              imgBenner={"/landscape-logo.png"}
+              imgProfle={"https://ik.imagekit.io/m1akscp5q/Pasang%20profilemu%20disni%20(4).jpg?updatedAt=1702972121979"}
+              email={caleg.email}
+              ig={"http://www.instagram.com/"}
+              fb={"http://www.facebook.com"}
+              noUrut={caleg.no_urut}
+              dapil={caleg.nama_dapil}
+              imgPartai={"/No_image.png"}
+              namaPartai={caleg.nama_partai}
+              alt={caleg.nama}
+            />
+      </div>
+    );
+}
+
+export default Page;

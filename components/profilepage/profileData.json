@@ -1,0 +1,291 @@
+[
+
+    {
+      "id": 1,
+      "image": "https://source.unsplash.com/random/1349x410",
+      "name": "John Doe",
+      "source": "Unsplash",
+      "alt": "Random political rally image from Unsplash",
+      "date": "2023-12-20",
+      "vision": "To create a just and inclusive society where all citizens have equal opportunities.",
+      "mission": "Our mission is to advocate for policies that promote social justice, equality, and the well-being of all members of the community.",
+      "political_vision": "To establish transparent governance and promote civic engagement for a thriving democratic society.",
+      "political_mission": "Our political mission is to work towards accountable leadership, empower citizens through education, and strengthen democratic institutions.",
+      "politicalQuote": "Democracy is not a spectator sport. It requires the active participation of every citizen to thrive.",
+      "profileImage": "https://source.unsplash.com/random/208x208",
+      "events": [
+        {
+          "imageEvent": "https://source.unsplash.com/random/800x602",
+          "titleEvent": "Community Forum",
+          "dateEvent": "2023-12-25",
+          "sourceEvent": "Local News",
+          "sourceImage": "https://source.unsplash.com/random/800x602"
+        },
+        {
+          "imageEvent": "https://source.unsplash.com/random/800x602",
+          "titleEvent": "Town Hall Meeting",
+          "dateEvent": "2023-12-26",
+          "sourceEvent": "City Gazette",
+          "sourceImage": "https://source.unsplash.com/random/800x602"
+        },
+        {
+          "imageEvent": "https://source.unsplash.com/random/800x602",
+          "titleEvent": "Policy Workshop",
+          "dateEvent": "2023-12-27",
+          "sourceEvent": "Policy Institute",
+          "sourceImage": "https://source.unsplash.com/random/800x602"
+        },
+        {
+          "imageEvent": "https://source.unsplash.com/random/800x602",
+          "titleEvent": "Election Results Announcement",
+          "dateEvent": "2023-12-28",
+          "sourceEvent": "National Broadcasting",
+          "sourceImage": "https://source.unsplash.com/random/800x602"
+        },
+        {
+          "imageEvent": "https://source.unsplash.com/random/800x602",
+          "titleEvent": "Committee Hearing",
+          "dateEvent": "2023-12-29",
+          "sourceEvent": "Legislative Gazette",
+          "sourceImage": "https://source.unsplash.com/random/800x602"
+        },
+        {
+          "imageEvent": "https://source.unsplash.com/random/800x602",
+          "titleEvent": "Public Debate",
+          "dateEvent": "2023-12-30",
+          "sourceEvent": "Public Radio",
+          "sourceImage": "https://source.unsplash.com/random/800x602"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "image": "https://source.unsplash.com/random/1349x410",
+      "name": "Jane Smith",
+      "source": "Unsplash",
+      "alt": "Random political campaign image from Unsplash",
+      "date": "2023-12-21",
+      "vision": "To build a nation where every voice is heard and every citizen's rights are protected.",
+      "mission": "Our mission is to engage with the community, understand their needs, and advocate for policies that address the concerns of the people.",
+      "political_vision": "To foster a political environment where diverse perspectives are respected, and collaborative decision-making leads to positive change.",
+      "political_mission": "Our political mission is to bridge gaps, build consensus, and work towards legislative solutions that benefit the entire society.",
+      "politicalQuote": "In politics, honesty is the best policy, but there are second-best policies.",
+      "profileImage": "https://source.unsplash.com/random/208x208",
+      "events": [
+        {
+          "imageEvent": "https://source.unsplash.com/random/800x602",
+          "titleEvent": "Town Hall Meeting",
+          "dateEvent": "2023-12-26",
+          "sourceEvent": "Local Gazette",
+          "sourceImage": "https://source.unsplash.com/random/800x602"
+        },
+        {
+          "imageEvent": "https://source.unsplash.com/random/800x602",
+          "titleEvent": "Policy Workshop",
+          "dateEvent": "2023-12-27",
+          "sourceEvent": "Policy Institute",
+          "sourceImage": "https://source.unsplash.com/random/800x602"
+        },
+        {
+          "imageEvent": "https://source.unsplash.com/random/800x602",
+          "titleEvent": "Election Results Announcement",
+          "dateEvent": "2023-12-28",
+          "sourceEvent": "National Broadcasting",
+          "sourceImage": "https://source.unsplash.com/random/800x602"
+        },
+        {
+          "imageEvent": "https://source.unsplash.com/random/800x602",
+          "titleEvent": "Committee Hearing",
+          "dateEvent": "2023-12-29",
+          "sourceEvent": "Legislative Gazette",
+          "sourceImage": "https://source.unsplash.com/random/800x602"
+        },
+        {
+          "imageEvent": "https://source.unsplash.com/random/800x602",
+          "titleEvent": "Public Debate",
+          "dateEvent": "2023-12-30",
+          "sourceEvent": "Public Radio",
+          "sourceImage": "https://source.unsplash.com/random/800x602"
+        },
+        {
+          "imageEvent": "https://source.unsplash.com/random/800x602",
+          "titleEvent": "Community Forum",
+          "dateEvent": "2023-12-25",
+          "sourceEvent": "Local News",
+          "sourceImage": "https://source.unsplash.com/random/800x602"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "image": "https://source.unsplash.com/random/1349x410",
+      "name": "Bob Johnson",
+      "source": "Unsplash",
+      "alt": "Random political debate image from Unsplash",
+      "date": "2023-12-22",
+      "vision": "To ensure a government that serves the people and upholds democratic values.",
+      "mission": "Our mission is to provide a platform for informed political discourse, educate the public, and promote transparency in governance.",
+      "political_vision": "To strengthen democratic institutions and uphold the rule of law for the betterment of society.",
+      "political_mission": "Our political mission is to work towards legislative reforms, advocate for accountable governance, and protect the democratic principles that form the foundation of our nation.",
+      "politicalQuote": "Politics is not a game. It directly impacts the lives of people. Let's play fair and work towards a better future for all.",
+      "profileImage": "https://source.unsplash.com/random/208x208",
+      "events": [
+        {
+          "imageEvent": "https://source.unsplash.com/random/800x602",
+          "titleEvent": "Policy Workshop",
+          "dateEvent": "2023-12-27",
+          "sourceEvent": "Policy Institute",
+          "sourceImage": "https://source.unsplash.com/random/800x602"
+        },
+        {
+          "imageEvent": "https://source.unsplash.com/random/800x602",
+          "titleEvent": "Election Results Announcement",
+          "dateEvent": "2023-12-28",
+          "sourceEvent": "National Broadcasting",
+          "sourceImage": "https://source.unsplash.com/random/800x602"
+        },
+        {
+          "imageEvent": "https://source.unsplash.com/random/800x602",
+          "titleEvent": "Committee Hearing",
+          "dateEvent": "2023-12-29",
+          "sourceEvent": "Legislative Gazette",
+          "sourceImage": "https://source.unsplash.com/random/800x602"
+        },
+        {
+          "imageEvent": "https://source.unsplash.com/random/800x602",
+          "titleEvent": "Public Debate",
+          "dateEvent": "2023-12-30",
+          "sourceEvent": "Public Radio",
+          "sourceImage": "https://source.unsplash.com/random/800x602"
+        },
+        {
+          "imageEvent": "https://source.unsplash.com/random/800x602",
+          "titleEvent": "Community Forum",
+          "dateEvent": "2023-12-25",
+          "sourceEvent": "Local News",
+          "sourceImage": "https://source.unsplash.com/random/800x602"
+        },
+        {
+          "imageEvent": "https://source.unsplash.com/random/800x602",
+          "titleEvent": "Town Hall Meeting",
+          "dateEvent": "2023-12-26",
+          "sourceEvent": "City Gazette",
+          "sourceImage": "https://source.unsplash.com/random/800x602"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "image": "https://source.unsplash.com/random/1349x410",
+      "name": "Alice Davis",
+      "source": "Unsplash",
+      "alt": "Random election day image from Unsplash",
+      "date": "2023-12-23",
+      "vision": "To empower citizens through the democratic process and safeguard their right to vote.",
+      "mission": "Our mission is to encourage voter participation, provide unbiased information, and advocate for fair and accessible elections.",
+      "political_vision": "To build a political landscape where electoral processes are transparent, free, and fair, ensuring the voice of every citizen is heard.",
+      "political_mission": "Our political mission is to work towards electoral reforms, combat voter suppression, and strengthen the foundations of democracy.",
+      "politicalQuote": "In a democracy, the individual enjoys not only the ultimate power but carries the ultimate responsibility.",
+      "profileImage": "https://source.unsplash.com/random/208x208",
+      "events": [
+        {
+          "imageEvent": "https://source.unsplash.com/random/800x602",
+          "titleEvent": "Election Results Announcement",
+          "dateEvent": "2023-12-28",
+          "sourceEvent": "National Broadcasting",
+          "sourceImage": "https://source.unsplash.com/random/800x602"
+        },
+        {
+          "imageEvent": "https://source.unsplash.com/random/800x602",
+          "titleEvent": "Committee Hearing",
+          "dateEvent": "2023-12-29",
+          "sourceEvent": "Legislative Gazette",
+          "sourceImage": "https://source.unsplash.com/random/800x602"
+        },
+        {
+          "imageEvent": "https://source.unsplash.com/random/800x602",
+          "titleEvent": "Public Debate",
+          "dateEvent": "2023-12-30",
+          "sourceEvent": "Public Radio",
+          "sourceImage": "https://source.unsplash.com/random/800x602"
+        },
+        {
+          "imageEvent": "https://source.unsplash.com/random/800x602",
+          "titleEvent": "Community Forum",
+          "dateEvent": "2023-12-25",
+          "sourceEvent": "Local News",
+          "sourceImage": "https://source.unsplash.com/random/800x602"
+        },
+        {
+          "imageEvent": "https://source.unsplash.com/random/800x602",
+          "titleEvent": "Town Hall Meeting",
+          "dateEvent": "2023-12-26",
+          "sourceEvent": "City Gazette",
+          "sourceImage": "https://source.unsplash.com/random/800x602"
+        },
+        {
+          "imageEvent": "https://source.unsplash.com/random/800x602",
+          "titleEvent": "Policy Workshop",
+          "dateEvent": "2023-12-27",
+          "sourceEvent": "Policy Institute",
+          "sourceImage": "https://source.unsplash.com/random/800x602"
+        }]
+      },
+    {
+      "id": 5,
+      "image": "https://source.unsplash.com/random/1349x410",
+      "name": "Charlie Brown",
+      "source": "Unsplash",
+      "alt": "Random legislative session image from Unsplash",
+      "date": "2023-12-24",
+      "vision": "To create and implement effective policies that address the evolving needs of our society.",
+      "mission": "Our mission is to engage in evidence-based policymaking, collaborate across party lines, and prioritize the well-being of our constituents.",
+      "political_vision": "To establish a legislative framework that serves the interests of the people, fosters innovation, and adapts to the changing needs of society.",
+      "political_mission": "Our political mission is to work towards bipartisan solutions, promote legislative transparency, and enact laws that benefit the greater good.",
+      "politicalQuote": "The ballot is stronger than the bullet. Your vote is your voice, use it wisely.",
+      "profileImage": "https://source.unsplash.com/random/208x208",
+      "events": [
+        {
+          "imageEvent": "https://source.unsplash.com/random/800x602",
+          "titleEvent": "Election Results Announcement",
+          "dateEvent": "2023-12-28",
+          "sourceEvent": "National Broadcasting",
+          "sourceImage": "https://source.unsplash.com/random/800x602"
+        },
+        {
+          "imageEvent": "https://source.unsplash.com/random/800x602",
+          "titleEvent": "Committee Hearing",
+          "dateEvent": "2023-12-29",
+          "sourceEvent": "Legislative Gazette",
+          "sourceImage": "https://source.unsplash.com/random/800x602"
+        },
+        {
+          "imageEvent": "https://source.unsplash.com/random/800x602",
+          "titleEvent": "Public Debate",
+          "dateEvent": "2023-12-30",
+          "sourceEvent": "Public Radio",
+          "sourceImage": "https://source.unsplash.com/random/800x602"
+        },
+        {
+          "imageEvent": "https://source.unsplash.com/random/800x602",
+          "titleEvent": "Community Forum",
+          "dateEvent": "2023-12-25",
+          "sourceEvent": "Local News",
+          "sourceImage": "https://source.unsplash.com/random/800x602"
+        },
+        {
+          "imageEvent": "https://source.unsplash.com/random/800x602",
+          "titleEvent": "Town Hall Meeting",
+          "dateEvent": "2023-12-26",
+          "sourceEvent": "City Gazette",
+          "sourceImage": "https://source.unsplash.com/random/800x602"
+        },
+        {
+          "imageEvent": "https://source.unsplash.com/random/800x602",
+          "titleEvent": "Policy Workshop",
+          "dateEvent": "2023-12-27",
+          "sourceEvent": "Policy Institute",
+          "sourceImage": "https://source.unsplash.com/random/800x602"
+        }]
+    }
+  ]
