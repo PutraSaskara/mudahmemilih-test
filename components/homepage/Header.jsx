@@ -2,7 +2,7 @@
 
 import React from "react";
 import SearchInput from "../homepage/SearchInput";
-import CountdownComponent from "./CountdownComponent";
+// import CountdownComponent from "./CountdownComponent";
 import HeaderImage from "./HeaderImage";
 import SearchInputCaleg from "../homepage/SearchInputCaleg";
 
@@ -30,7 +30,7 @@ const Header = () => {
             <p className="max-w-2xl mb-10 font-base  text-black lg:mb-8 md:text-lg lg:text-xl ">
             </p>
             <div className="flex justify-center lg:hidden ">
-              <CountdownComponent style="flex flex-row lg:hidden bg-white rounded-xl shadow-lg" />
+              {/* <CountdownComponent style="flex flex-row lg:hidden bg-white rounded-xl shadow-lg" /> */}
             </div>
 
             <h4 className="text-secondary font-sans">Cari Daerah Pilihanmu!</h4>

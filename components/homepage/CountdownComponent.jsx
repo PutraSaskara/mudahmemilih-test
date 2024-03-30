@@ -5,7 +5,7 @@ import React, { useEffect, useState } from "react";
 
 
 const Completionist = () => (
-  <span className="text-lg text-green-500">The countdown is complete!</span>
+  <span className="text-lg text-white">.</span>
 );
 
 const CountdownComponent = (props) => {
